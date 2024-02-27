@@ -1,0 +1,11 @@
+{
+  "name": "ibmmobileanalyticssample",
+  "version": "1.0.0",
+  "description": "IBMMobileAnalyticsSample-client holds the ibm-mfp-sdk and requirejs, two node_modules that are mandatory for this sample",
+  "dependencies": {
+    "ibm-mfp-web-sdk": "file:../../../../../../../Downloads/worklight-web-native-8.0.2022091607",
+    "requirejs": "latest"
+  },
+  "author": "PSL Mobile Foundation-Analytics",
+  "license": "SEE LICENSE IN README.MD"
+}
